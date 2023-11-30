@@ -2,6 +2,8 @@
 
     3D Laser Sintering Optimisation
 
+[Dissertation PDF](https://github.com/ThomasAstley/3D_Laser_Sintering_Optimisation/blob/main/Dissertation.pdf)
+
 ![result](https://github.com/ThomasAstley/3D_Laser_Sintering_Optimisation/blob/main/result_images/parts.png)
 
 # DESCRIPTION
